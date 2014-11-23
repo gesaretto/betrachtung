@@ -1,5 +1,7 @@
 # Notes on Betrachtung
 
+__Hypothesis:__ in his work on _Betrachtung_, Kafka is actually trying to translate tropes and devices drawn from film (montage) into syntactic features.
+
 ## A list of facts and ideas
 
 1. Betrachtung is a series of 18 short stories written between 1904 and 1912 and published in 1912.
