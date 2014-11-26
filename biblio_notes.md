@@ -14,6 +14,8 @@
 1. The book that we ought to look at is in German: _Kafka geht ins Kino_ by Hans Zischler (Reinbek: Rowohlt 1996).
 1. Another book on __motion__ in Kafka: _Kafkas bewegte Körper. Die Tagebücher und Briefe als Laboratorien von Bewegung_ (München: Wilhelm Fink Verlag, 2009).
 
+## On cinema in Germany
+
 ## Ideas (articles)
 1. Michiel Rys, _Turning the Reel_ in "Image [&] Narrative", Vol. 15, No. 2 (2014)
  > There is a book about _Joycean Frames: Film and the Fiction of James Joyce_, by Thomas L. Burkdall. It should be checked out. In Rys' words: "there are noticeable connections between his writing, film theory (e. g. Eiesenstein) and film practice (e.g. the use of techniques such as close-up). [And, of course, we should ask what the connection could be between _close-up_ and _ekphrasis_. Also, why are we so obsessed with hypotyposis?]
