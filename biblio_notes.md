@@ -13,6 +13,7 @@
 1. THE DIARIES. Of __effing__ course.
 1. The book that we ought to look at is in German: _Kafka geht ins Kino_ by Hans Zischler (Reinbek: Rowohlt 1996).
 1. Another book on __motion__ in Kafka: _Kafkas bewegte Körper. Die Tagebücher und Briefe als Laboratorien von Bewegung_ (München: Wilhelm Fink Verlag, 2009).
+1. The book that Huyssen suggested (apparently): _Kafka and Photography_, Carolin Duttlinger; the stacks - signature __PT2621.A26 Z6785 2007__.
 
 ## On cinema in Germany
 
