@@ -15,7 +15,9 @@
 1. Another book on __motion__ in Kafka: _Kafkas bewegte Körper. Die Tagebücher und Briefe als Laboratorien von Bewegung_ (München: Wilhelm Fink Verlag, 2009).
 1. The book that Huyssen suggested (apparently): _Kafka and Photography_, Carolin Duttlinger; the stacks - signature __PT2621.A26 Z6785 2007__.
 
-## On cinema in Germany
+## On cinema in Prague
+
+- Max Brod apparently talks about cinema in his _Schönheit häßlicher Bilder_ (1913). Requested from Columbia offsite repository.
 
 ## Ideas (articles)
 1. Michiel Rys, _Turning the Reel_ in "Image [&] Narrative", Vol. 15, No. 2 (2014)

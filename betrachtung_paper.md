@@ -1,0 +1,16 @@
+# Betrachtung
+
+- Topics to address:
+	1. Introduction
+		1. A sort of introduction about the era; the sort of work that Kafka was doing; the sort of devices that he would be looking at, playing with. The "state of the art": what is photography doing? What is cinema doing? How are they interacting? What else was available?
+		2. The thesis: Kafka's work on Betracthung is a reaction to this new techology: it is an attempt to incorporate, master, and eventually overpower these means. His syntax is trying to mirror - to echo - to be homogeneous, isomorphic - to adhere to - these technical innovations - the rythm and the possibilities of these technical innovations.
+	2. The body: an analysis of a series of devices that are found in Kafka, and that could easily work as analogies of cinema
+		1.  __Frame__
+Frame is about what "lies beyond the frame"; it is, first of all, the arrangement of sight, and of experience, into a sequence of delimited perspectives on reality - a look that is, by necessity, flat. Is sight naturally flat, has sight always been intended as flat, and stereoscopy as an illusion? Frame is __photography__, of course. In this case, the first episode that comes to mind is the scene of the Fahrgast contemplating the girl's ear on the tramway.
+We will define the difference between _hypotyposis_ and _ekphrasis_; the presence of movement that precedes the dichotomy between film and photography. __Ruhe__ and __Unruhe__ in the eyes of the beholder.
+		2. __Editing__
+Here we can first of all use the idea of __fragmentation__ that Adorno had first introduced, by associating it with the notions of editing - and perhaps the experimental, dialectical editing of Soviet cinema (although this specific experimentation is absent from cinema in the 1910s, at least consciously, and certainly in the structure of _Betrachtung_, which is instead surprisingly narrative.)
+		3. __The subjective perspective__
+Here we will mostly focus on what happens between the first and the last short story. Is there a continuity in that exchange of perspectives, in that shift in perspectives?
+	3. Conclusion: the imaginative push - an attempt to become __the other__.
+Sight is a construction of selfhood; sight is registered by cinema and, differently, by literature: literature is able to explore the boundaries of sight, to push beyond the twodimensionality of vision, to seek the imaginary, to convey the imaginary. Through literature, I can not only see what the other is seeing - I can see what the other wishes to see, or better still, I can wish to see what the other wishes to see. This is why the three questions are so closely related: framing - the inclusion and exclusion dynamic that framing, by necessity, entails - what remains __outside__ of the frame, unseen, secret; editing - that alternation that is also a sort of visual and imaginative __acceleration__ (Unruhe), towards a threshold that has to be overcome; the shifts of the subjective gaze, as the final transference between identities, the incorporation of the reader within the identities of the writer and the written.
