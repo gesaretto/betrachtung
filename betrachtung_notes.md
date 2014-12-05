@@ -40,6 +40,10 @@ __Hypothesis:__ in his work on _Betrachtung_, Kafka is actually trying to transl
 > Exemplary; little words to spend about this. Again, the convergence of perspectives; again the ekphrastic, projective moment outside of the self, mirroring the self. We are watching the watcher, we are becoming the watcher. The norm: usually paying attention to a small detail about the observer - "his head tilted back slightly" - and then appropiating his point of view - what he sees outside of his window. This final moment of incorporation of that subjectivity with the one outside of the window is a moment of incorporation of the reader within that represented personality - as he becomes them - and the universe -, we become him.
     1. __The passenger__ (Der Fahrgast)
 > In any case, pure genius. This is photography - a clear example of stasis in motion, of ekphrasis; it is a denied moment of motion: the author is not allowed to follow his imagination behind that ear, along that shadow. "Ich fragte mich damals: Wieso kommt es, daß sie den Mund geschlossen hält und nichts dergleichen sagt?" Penetration into the detail allows us for a brief quotation from Benjamin; the whole short story is an odd experiment of static perception in a moveable setting (relativity).
+    1. __Dresses__ (Kleider)
+    A mirror in this one.
+    1. __The rebuff__ (Die Abweisung)
+    An imaginary game of hypothesis. Mostly dialogic. Interesting connection with _Der Fahrgast_ (the woman is given a voice).
     1. __Wanting to be a Red Indian__ (Wunsch, Indianer zu werden)
 > This is, without a doubt, a short piece about cinema. About subjectivity as we have defined it: how sight is appropiation. Here an analysis of syntax would be fruitful. I also think that we should start considering a computational lexical analysis: density of "wenn" and "denn", positioning of conjunctions and fragmentation of commas and dashes. A hypothetical sentence is, by necessity, a vision.
     1. __The trees__ (Die Bäume)
