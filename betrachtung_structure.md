@@ -115,20 +115,31 @@ Inversion of perspective. Perspective creating an inversion of reality.
             
 2. __Editing__
 Here we can first of all use the idea of __fragmentation__ that Adorno had first introduced (__where?__), by associating it with the notions of editing [_DROP THIS:_ - and perhaps the experimental, dialectical editing of Soviet cinema (although this specific experimentation is absent from cinema in the 1910s, at least consciously, and certainly in the structure of _Betrachtung_, which is instead surprisingly narrative.)]
+- - -
+- __The spur-of-the-moment stroll__:
+    - __When__ / __then__
 
-    - __The spur-of-the-moment stroll__:
-        - __When__ / __then__
+- __Wanting to be a Red Indian__: simply say that this is a very famous example; quote Duttlinger _en passant_.
 
-		3. __The subjective perspective__
+- __The way home__: very appropriate; the _Tempo_ is conveyed by a simple syntactical density; there is not much beyond this observation, but is an easy piece of evidence that we should not overlook.
+
+- There are __wenn__ and __denn__ in __Passers-by__. Perhaps this should be anticipated.
+
+- __Wool-gathering at the window__: could this work as a sort of temporal distortion achieved through syntax? As if syntax were able to overcome conventional notions of chronological sequence?
+- - -
+3. __The subjective perspective__
 Here we will mostly focus on what happens between the first and the last short story. Is there a continuity in that exchange of perspectives, in that shift in perspectives?
+- This section ties together the __frame__ and __editing__: when a subjective frame is used appropriately, there is a shift in perspective that allows the reader to experience what the watcher has experienced.
+- We should suggest that Kafka preceded Kulesov and Eisestein; that Kafka's writings are, in a way, technical discoveries about film that film later incorporated.
+- - -
 
-            - - -
+- We return to the structure of _Kinder auf der Landstraße
             
-            The observations on __POV__ are the central ones, and the most original. This is where you will collect your ideas about:
+The observations on __POV__ are the central ones, and the most original. This is where you will collect your ideas about:
             
-            - The hypothetical mode; every __if__ (_wenn_) of the book as that sort of projection.
+- The hypothetical mode; every __if__ (_wenn_) of the book as that sort of projection.
             
-            - - -
+- - -
 
 3. Conclusion: the imaginative push - an attempt to become __the other__.
 Sight is a construction of selfhood; sight is registered by cinema and, differently, by literature: literature is able to explore the boundaries of sight, to push beyond the twodimensionality of vision, to seek the imaginary, to convey the imaginary. Through literature, I can not only see what the other is seeing - I can see what the other wishes to see, or better still, I can wish to see what the other wishes to see. This is why the three questions are so closely related: framing - the inclusion and exclusion dynamic that framing, by necessity, entails - what remains __outside__ of the frame, unseen, secret; editing - that alternation that is also a sort of visual and imaginative __acceleration__ (Unruhe), towards a threshold that has to be overcome; the shifts of the subjective gaze, as the final transference between identities, the incorporation of the reader within the identities of the writer and the written.
