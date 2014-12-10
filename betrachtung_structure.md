@@ -125,12 +125,28 @@ Here we can first of all use the idea of __fragmentation__ that Adorno had first
 
 - There are __wenn__ and __denn__ in __Passers-by__. Perhaps this should be anticipated.
 
-- __Wool-gathering at the window__: could this work as a sort of temporal distortion achieved through syntax? As if syntax were able to overcome conventional notions of chronological sequence?
+[- __Wool-gathering at the window__: could this work as a sort of temporal distortion achieved through syntax? As if syntax were able to overcome conventional notions of chronological sequence?]
 - - -
 3. __The subjective perspective__
+
 Here we will mostly focus on what happens between the first and the last short story. Is there a continuity in that exchange of perspectives, in that shift in perspectives?
+
+- __Passers-by__: what happens at night and the series of _conjectures_. The order of this section is:
+    
+    1. The shifts in gaze that hold together the first short story
+
+        - Kinder auf der Landstrasse
+    
+    1. The function of the subjective perspective as a mode of transference
+    
+        - Kinder auf der Landstrasse / Die Vorüberlaufenden
+            
+    1. the hypotetical mode as the unique device to allow f or a transfer of gaze
+
 - This section ties together the __frame__ and __editing__: when a subjective frame is used appropriately, there is a shift in perspective that allows the reader to experience what the watcher has experienced.
+
 - We should suggest that Kafka preceded Kulesov and Eisestein; that Kafka's writings are, in a way, technical discoveries about film that film later incorporated.
+
 - - -
 
 - We return to the structure of _Kinder auf der Landstraße
@@ -142,4 +158,5 @@ The observations on __POV__ are the central ones, and the most original. This is
 - - -
 
 3. Conclusion: the imaginative push - an attempt to become __the other__.
+
 Sight is a construction of selfhood; sight is registered by cinema and, differently, by literature: literature is able to explore the boundaries of sight, to push beyond the twodimensionality of vision, to seek the imaginary, to convey the imaginary. Through literature, I can not only see what the other is seeing - I can see what the other wishes to see, or better still, I can wish to see what the other wishes to see. This is why the three questions are so closely related: framing - the inclusion and exclusion dynamic that framing, by necessity, entails - what remains __outside__ of the frame, unseen, secret; editing - that alternation that is also a sort of visual and imaginative __acceleration__ (Unruhe), towards a threshold that has to be overcome; the shifts of the subjective gaze, as the final transference between identities, the incorporation of the reader within the identities of the writer and the written.
